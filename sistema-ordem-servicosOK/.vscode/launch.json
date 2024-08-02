@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SistemaOrdemServicosApplication<sistema-ordem-servicos>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.empresa.SistemaOrdemServicosApplication",
+            "projectName": "sistema-ordem-servicos",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
